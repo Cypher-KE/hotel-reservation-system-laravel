@@ -27,7 +27,7 @@
 
             <!-- Available Rooms -->
             <div class="col">
-                <div class="card text-white bg-info shadow-lg rounded-4">
+                <div class="card text-white bg-primary shadow-lg rounded-4">
                     <div class="card-header h4 text-center">Available Rooms</div>
                     <div class="card-body d-flex justify-content-center align-items-center py-5">
                         <h5 class="display-3 font-weight-bold">{{ $totalRooms - $reservedRoom }}</h5>
